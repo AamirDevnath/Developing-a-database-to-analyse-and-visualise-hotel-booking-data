@@ -1,5 +1,5 @@
-# Developing-a-database-to-analyse-and-visualise-hotel-booking-data
-Data analyses project #1
+# Data analyses project #1
+Developing-a-database-to-analyse-and-visualise-hotel-booking-data
 
 Problem statement:
 - is the hotel revenue growing by year?
