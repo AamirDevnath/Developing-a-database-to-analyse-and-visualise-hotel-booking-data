@@ -1,5 +1,4 @@
-# Data analyses project #1
-Developing-a-database-to-analyse-and-visualise-hotel-booking-data
+# Developing a database (Microsoft SQL Server), Importing data, SQL Queries to join and append tables, Exporting to Power BI, Developing visualisations and report
 
 Problem statement:
 - is the hotel revenue growing by year?
